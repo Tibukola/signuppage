@@ -1,0 +1,21 @@
+*{
+    background-image: url(/images/signup\ background.jpg);
+    background-repeat: no-repeat;
+    
+}
+h2{
+    text-align: center;
+    color: aqua;
+    margin-top: 90px;
+}
+form {
+    text-align: center;
+    margin-top: 100px;
+}
+label{
+    text-decoration: solid;
+    
+}
+.words{
+    font-weight: bold;
+}

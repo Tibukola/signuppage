@@ -1,0 +1,10 @@
+*{
+    background-image: url(/images/login\ background.jpg);
+    background-repeat: no-repeat;
+}
+
+body{
+    text-align: center;
+    margin-top: 200px;
+    
+}
